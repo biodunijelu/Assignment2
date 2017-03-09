@@ -1,0 +1,6 @@
+C:\VatebraAcademyTraining\Workspace\VatebraAssignmet\VatebraAssignmet\bin\Debug\VatebraAssignmet.exe.config
+C:\VatebraAcademyTraining\Workspace\VatebraAssignmet\VatebraAssignmet\bin\Debug\VatebraAssignmet.exe
+C:\VatebraAcademyTraining\Workspace\VatebraAssignmet\VatebraAssignmet\bin\Debug\VatebraAssignmet.pdb
+C:\VatebraAcademyTraining\Workspace\VatebraAssignmet\VatebraAssignmet\obj\Debug\VatebraAssignmet.csprojResolveAssemblyReference.cache
+C:\VatebraAcademyTraining\Workspace\VatebraAssignmet\VatebraAssignmet\obj\Debug\VatebraAssignmet.exe
+C:\VatebraAcademyTraining\Workspace\VatebraAssignmet\VatebraAssignmet\obj\Debug\VatebraAssignmet.pdb
